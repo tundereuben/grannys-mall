@@ -1,0 +1,21 @@
+body {
+
+}
+
+#navigation .nav li a {
+  color: #28A745;
+}
+
+/* .album .row-title {
+    background: green;
+} */
+
+.album .view-more {
+  text-align: right;
+  /* background: green; */
+  margin-bottom: 30px;
+}
+
+.album img {
+  height: 250px;
+}
